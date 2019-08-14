@@ -1,0 +1,13 @@
+[package]
+name = "heim-metrics-proxy"
+version = "0.0.1"
+authors = ["jean-airoldie <maxence.caron@protonmail.com>", "svartalf <self@svartalf.info>"]
+edition = "2018"
+description = "Reserved for a future use"
+repository = "https://github.com/heim-rs/heim-metrics-proxy"
+readme = "README.md"
+license = "Apache-2.0 OR MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
