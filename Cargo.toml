@@ -8,6 +8,8 @@ repository = "https://github.com/heim-rs/heim-metrics-proxy"
 readme = "README.md"
 license = "Apache-2.0 OR MIT"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+futures-preview = { version = "0.3.0-alpha.17" }
+heim = { git = "https://github.com/heim-rs/heim" }
+metrics = "0.11"
+metrics-runtime = "0.1"
